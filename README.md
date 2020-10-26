@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![xiaoqi's github stats](https://github-readme-stats.vercel.app/api?username=lenconda&theme=dark&show_icons=true)
+
 <!--
 **lenconda/lenconda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [lenconda/faun](https://github.com/lenconda/faun)
+- 🌱 I’m currently learning TypeScript, Dart, Flutter and Front-end Architecture
+- 👯 I’m looking to collaborate on [lenconda/faun](https://github.com/lenconda/faun)
+- 💬 Ask me about whatever I know
