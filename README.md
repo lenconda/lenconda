@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [lenconda/faun](https://github.com/lenconda/faun)
+- 🔭 I’m currently working on [dolliejs/dollie-core](https://github.com/dolliejs/dollie-core)
 - 🌱 I’m currently learning TypeScript, Dart, Flutter and Front-end Architecture
-- 👯 I’m looking to collaborate on [lenconda/faun](https://github.com/lenconda/faun)
+- 👯 I’m looking to collaborate on [dolliejs/dollie-core](https://github.com/dolliejs/dollie-core)
 - 💬 Ask me about whatever I know
