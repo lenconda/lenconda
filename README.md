@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![xiaoqi's github stats](https://github-readme-stats.vercel.app/api?username=lenconda&theme=dark&show_icons=true)
+![lenconda's github stats](https://github-readme-stats.vercel.app/api?username=lenconda&theme=dark&show_icons=true)
 
 <!--
 **lenconda/lenconda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [dolliejs/dollie](https://github.com/dolliejs/dollie)
-- 🌱 I’m currently learning TypeScript, Dart, Flutter and Front-end Architecture
-- 👯 I’m looking to collaborate on [dolliejs/dollie](https://github.com/dolliejs/dollie)
+- 🔭 I’m currently working on [pugiojs/*](https://github.com/pugiojs) and [khamsa](https://github.com/lenconda/khamsa)
+- 🌱 I’m currently learning TypeScript, Dart, Flutter and Front-End Architecture
+- 👯 I’m looking to collaborate on [pugiojs/pugio](https://github.com/pugiojs/pugio) and [khamsa](https://github.com/lenconda/khamsa)
 - 💬 Ask me about whatever I know
