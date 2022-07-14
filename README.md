@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [pugiojs/*](https://github.com/pugiojs) and [khamsa](https://github.com/lenconda/khamsa)
+- 🔭 I’m currently working on [Pugio.js](https://github.com/pugiojs) and [Agros.js](https://github.com/agrosjs)
 - 🌱 I’m currently learning TypeScript, Dart, Flutter and Front-End Architecture
 - 👯 I’m looking to collaborate on [pugiojs/pugio](https://github.com/pugiojs/pugio) and [agrosjs/agros](https://github.com/agrosjs/agros)
 - 💬 Ask me about whatever I know
